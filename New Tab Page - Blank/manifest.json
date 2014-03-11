@@ -2,10 +2,10 @@
    "chrome_url_overrides": {
       "newtab": "b.html"
    },
+   "description": "opens a blank page as new tab page",
    "icons": {
       "48": "48.png"
    },
-   "description": "opens a blank page as new tab page",
    "manifest_version": 2,
    "name": "New Tab Page - Blank",
    "update_url": "https://clients2.google.com/service/update2/crx",
